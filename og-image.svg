@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FFF8E7"/>
+  <rect x="0" y="0" width="1200" height="630" fill="none" stroke="#111111" stroke-width="12"/>
+  <text x="80" y="180" font-family="Space Grotesk, Arial, sans-serif" font-size="40" font-weight="700" fill="#FF5A36" letter-spacing="10">THE SOLUTION LAB</text>
+  <text x="80" y="360" font-family="Space Grotesk, Arial, sans-serif" font-size="96" font-weight="800" fill="#111111">Big Problems</text>
+  <text x="80" y="470" font-family="Space Grotesk, Arial, sans-serif" font-size="96" font-weight="800" fill="#111111">Need Small Ideas.</text>
+  <circle cx="1100" cy="540" r="40" fill="#FF5A36"/>
+</svg>
